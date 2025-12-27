@@ -76,20 +76,20 @@ const Footer = () => {
             </h4>
             <div className="space-y-4">
               <a
-                href="tel:+1234567890"
+                href="tel:+918198034686"
                 className="flex items-center space-x-3 text-sm text-[#f5f5dc]/60 hover:text-[#d4af37] transition-colors"
                 style={{ fontFamily: 'Montserrat, sans-serif' }}
               >
                 <Phone size={16} />
-                <span>+1 (234) 567-890</span>
+                <span>+91 8198034686</span>
               </a>
               <a
-                href="mailto:info@nvcreationstudio.com"
+                href="mailto:nvcreationstudio@gmail.com"
                 className="flex items-center space-x-3 text-sm text-[#f5f5dc]/60 hover:text-[#d4af37] transition-colors"
                 style={{ fontFamily: 'Montserrat, sans-serif' }}
               >
                 <Mail size={16} />
-                <span>info@nvcreationstudio.com</span>
+                <span>nvcreationstudio@gmail.com</span>
               </a>
               <div className="flex items-center space-x-3 text-sm text-[#f5f5dc]/60" style={{ fontFamily: 'Montserrat, sans-serif' }}>
                 <MapPin size={16} />
